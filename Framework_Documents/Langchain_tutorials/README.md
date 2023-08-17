@@ -10,8 +10,8 @@ If you're new to Jupyter Notebooks or Colab, check out [this video](https://www.
 
 ### **New To LangChain?**
 Recommended Learning Path:
-1. LangChain CookBook Part 1: 7 Core Concepts - [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb), [Video](https://youtu.be/2xxziIWmaSA)
-2. LangChain CookBook Part 2: 9 Use Cases - [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb), [Video](https://youtu.be/vGP4pQdCocw)
+1. LangChain CookBook Part 1: 7 Core Concepts - [Code](https://github.com/Brycenvn/BrycenChatGPT/blob/main/Framework_Documents/Langchain_tutorials/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb), [Video](https://youtu.be/2xxziIWmaSA)
+2. LangChain CookBook Part 2: 9 Use Cases - [Code](https://github.com/Brycenvn/BrycenChatGPT/blob/main/Framework_Documents/Langchain_tutorials/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb), [Video](https://youtu.be/vGP4pQdCocw)
 3. Explore the projects below and jump into the deep dives
 
 Prompt Engineering (my favorite resources):
