@@ -8,8 +8,7 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Kh
 
 ### Bước 1: Học về Xử lý Ngôn ngữ Tự Nhiên trong AI
 
-- Tài liệu: [Xử lý Ngôn ngữ Tự Nhiên trong AI](link_tai_lieu_step1)
-- Source Code: [Repository Step 1](link_repository_step1)
+- Tài liệu: [Xử lý Ngôn ngữ Tự Nhiên trong AI](https://github.com/Brycenvn/BrycenChatGPT/tree/main/NLP_Documents)
 
 ### Bước 2: Học về Langchain, Hugging Face, Gradio hay Streamlit
 
