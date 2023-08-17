@@ -95,10 +95,6 @@ Prompt Engineering (my favorite resources):
 | ----------- | ----------- | ---------- | :-: | ---------- |
 | [Slack-GPT](https://github.com/martinseanhunt/slack-gpt)      | [@martinseanhunt](https://twitter.com/martinseanhunt)       | 🐒 Intermediate | ✅ [Code](https://github.com/martinseanhunt/slack-gpt) | A simple starter for a Slack app / chatbot that uses the Bolt.js Slack app framework, Langchain, openAI and a Pinecone vectorstore to provide LLM generated answers to user questions based on a custom data set. | 
 
-## 💁 Contributing
-
-As an open-source project in a rapidly developing field, we are extremely open to contributions, whether it be in the form of updating code, better documentation, or project to feature.
-
 Submit a PR with notes.
 
 This repo and series is provided by [DataIndependent](https://dataindependent.com/) and run by [Greg Kamradt](https://twitter.com/GregKamradt)
