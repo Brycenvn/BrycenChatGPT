@@ -27,7 +27,7 @@ Prompt Engineering (my favorite resources):
 
 🦈 Advanced = Advanced or custom implementations of LangChain
 
-### **📝 Summarization** - *Deep Dive: [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb), [Video](https://youtu.be/qaPMdcCqtWk)*
+### **📝 Summarization** - *Deep Dive: [Code](https://github.com/Brycenvn/BrycenChatGPT/blob/main/Framework_Documents/Langchain_tutorials/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb), [Video](https://youtu.be/qaPMdcCqtWk)*
 | Project    | Contact | Difficulty | Open Sourced? |  Notes | 
 | - | ----------- | ---------- | :-: | ---------- |
 | [SummarizePaper.com](https://www.summarizepaper.com/)      | Quentin Kral       | 🐒 Intermediate | ✅ [Code](https://github.com/summarizepaper/summarizepaper) | Summarize arXiv papers | 
@@ -45,7 +45,7 @@ Prompt Engineering (my favorite resources):
 | Project      | Contact | Difficulty | Open Sourced? |  Notes | 
 | ----------- | ----------- | ---------- | :-: | ---------- |
 | [Kor](https://eyurtsev.github.io/kor/)      | [Eugene Yurtsev](https://twitter.com/veryboldbagel)       | 🐒 Intermediate | ✅ [Code](https://github.com/eyurtsev/kor) | This is a half-baked prototype that “helps” you extract structured data from text using large language models (LLMs) 🧩. | 
-| [OpeningAttributes](https://twitter.com/GregKamradt/status/1643027796850253824)      | [@gregkamradt](https://twitter.com/GregKamradt)       | 🐇 Beginner | ✅ [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Expert%20Structured%20Output%20(Using%20Kor).ipynb) | Extract technologies & tools from job descriptions | 
+| [OpeningAttributes](https://twitter.com/GregKamradt/status/1643027796850253824)      | [@gregkamradt](https://twitter.com/GregKamradt)       | 🐇 Beginner | ✅ [Code](https://github.com/Brycenvn/BrycenChatGPT/blob/main/Framework_Documents/Langchain_tutorials/data_generation/Expert%20Structured%20Output%20(Using%20Kor).ipynb) | Extract technologies & tools from job descriptions | 
 
 <br>
 
