@@ -12,7 +12,7 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Kh
 
 ### Bước 2: Học về Langchain, Hugging Face, Gradio hay Streamlit
 
-- Tài liệu: [Học về Langchain, Hugging Face, Gradio và Streamlit](link_tai_lieu_step2)
+- Tài liệu: [Langchain](https://github.com/Brycenvn/BrycenChatGPT/tree/main/Framework_Documents/Langchain_tutorials)
 - Source Code: [Repository Step 2](link_repository_step2)
 
 ### Bước 3: Học về Flutter và Firebase
