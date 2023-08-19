@@ -315,7 +315,7 @@ As always, make sure you review these concepts often to get familiar with them. 
 - [Dart Programing Tutorial - Full Course](https://youtu.be/Ej_Pcr4uC2Q)
 - [Dart Tutorials](https://dart.dev/tutorials)
 
-See the [dart_examples.dart](https://github.com/antz22/ultimate-guide-to-flutter/blob/master/code/dart_examples.dart) file in the 'code' folder to see all the examples from this dart tutorial.
+See the [dart_examples.dart](https://github.com/Brycenvn/BrycenChatGPT/blob/main/Flutter_Documents/code/dart_examples.dart) file in the 'code' folder to see all the examples from this dart tutorial.
 
 ## Learning Flutter UI
 
