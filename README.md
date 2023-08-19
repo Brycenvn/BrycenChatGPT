@@ -29,20 +29,6 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Kh
 - [Võ Đạt Văn](https://github.com/Brycenvn/VoDatVan)
 - [Lê Bá Tuấn Phong](https://github.com/lebatuanphong5398/flutter_chatgpt)
 
-## Cách Đóng Góp
-
-Chúng tôi rất hoan nghênh mọi đóng góp vào dự án BrycenChatGPT. Nếu bạn muốn đóng góp, vui lòng làm theo các bước sau:
-
-1. Fork repository BrycenChatGPT
-2. Tạo một nhánh mới cho tính năng hoặc sửa đổi của bạn: `git checkout -b feature/ten-tinh-nang`
-3. Commit các thay đổi của bạn: `git commit -m 'Thêm tính năng: Ten tinh nang'`
-4. Push lên nhánh của bạn: `git push origin feature/ten-tinh-nang`
-5. Tạo một yêu cầu kéo (Pull Request) mới đến nhánh master của chúng tôi.
-
-## Liên Hệ
-
-Mọi ý kiến đóng góp và phản hồi về dự án BrycenChatGPT đều được hoan nghênh. Bạn có thể liên hệ qua email: your@email.com.
-
 ---
 **Dự án được thực hiện bởi Công ty Brycen và Đại học Khoa học Huế.**
 
