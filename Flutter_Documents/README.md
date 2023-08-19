@@ -1,5 +1,5 @@
 <p align="middle">
-  <a href="https://github.com/antz22/ultimate-guide-to-flutter"><img src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/banner.svg"></a>
+  <a href="https://github.com/Brycenvn/BrycenChatGPT"><img src="https://github.com/Brycenvn/BrycenChatGPT/tree/main/Flutter_Documents/assets/banner.svg"></a>
 </p>
 
 <p align="center">
