@@ -22,6 +22,9 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Kh
 
 - [Sử Thành Công](https://github.com/Brycenvn/SuThanhCong)
 - [Nguyễn Thế Quang](https://github.com/Brycenvn/NguyenTheQuang)
+- [Lê Thanh Hùng](https://github.com/Brycenvn/LeThanhHung)
+- [Nguyễn Luôn Mong Đổ](https://github.com/Brycenvn/NguyenLuonMongDo)
+- [Nguyễn Tiến  Nhật](https://github.com/Brycenvn/NguyenTienNhat)
 
 ## Cách Đóng Góp
 
