@@ -21,10 +21,10 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Kh
 ### Bước 4: Xây dựng ứng dụng ChatGPT
 
 - [Sử Thành Công](https://github.com/Brycenvn/SuThanhCong) ([demo](https://drive.google.com/file/d/1aLGDVjmf_3quMpf7_lR3zamI1gO-y6Ki/view))
-- [Nguyễn Thế Quang](https://github.com/Brycenvn/NguyenTheQuang)
-- [Lê Thanh Hùng](https://github.com/Brycenvn/LeThanhHung)
-- [Nguyễn Luôn Mong Đổ](https://github.com/Brycenvn/NguyenLuonMongDo)
-- [Nguyễn Tiến  Nhật](https://github.com/Brycenvn/NguyenTienNhat)
+- [Nguyễn Thế Quang](https://github.com/Brycenvn/NguyenTheQuang) ([demo](https://drive.google.com/file/d/1MsBiXfmgxE9RcvolD0mM3dpKIqk3O83Q/view))
+- [Lê Thanh Hùng](https://github.com/Brycenvn/LeThanhHung) ([demo](https://drive.google.com/file/d/18Wk9943Exkq0-UH5dRk_LkT2vjR9lTtj/view))
+- [Nguyễn Luôn Mong Đổ](https://github.com/Brycenvn/NguyenLuonMongDo) ([demo](https://drive.google.com/file/d/1PxHfjB5mbVURbPVRoih9R_O75NAdDFwe/view))
+- [Nguyễn Tiến  Nhật](https://github.com/Brycenvn/NguyenTienNhat) ([demo](https://drive.google.com/file/d/190rzLfDvYKmZPBgMnYjNbvHTO3X9TCI9/view))
 - [Nguyễn Ngọc Quang Huy](https://github.com/Brycenvn/NguyenNgocQuangHuy)
 - [Võ Đạt Văn](https://github.com/Brycenvn/VoDatVan)
 - [Lê Bá Tuấn Phong](https://github.com/lebatuanphong5398/flutter_chatgpt)
