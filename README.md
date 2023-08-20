@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Khoa học Huế, nhằm mục tiêu xây dựng một ứng dụng trò chuyện sử dụng trí tuệ nhân tạo dựa trên mô hình GPT (Generative Pre-trained Transformer).
+BrycenChatGPT là dự án hợp tác giữa Công ty Brycen VN và Đại học Khoa học Huế, nhằm mục tiêu xây dựng một ứng dụng trò chuyện sử dụng trí tuệ nhân tạo dựa trên mô hình GPT (Generative Pre-trained Transformer).
 
 ## Các Bước Thực Hiện
 
@@ -30,5 +30,5 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Kh
 - [Lê Bá Tuấn Phong](https://github.com/lebatuanphong5398/flutter_chatgpt) ([demo](https://drive.google.com/file/d/1z3kRA4cpOBDmuOp3FKLJH31Eeo0h03tc/view))
 
 ---
-**Dự án được thực hiện bởi Công ty Brycen và Đại học Khoa học Huế.**
+**Dự án được thực hiện bởi Công ty Brycen VN và Đại học Khoa học Huế.**
 
