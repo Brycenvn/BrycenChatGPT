@@ -20,7 +20,7 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen và Đại học Kh
 
 ### Bước 4: Xây dựng ứng dụng ChatGPT
 
-- [Sử Thành Công](https://github.com/Brycenvn/SuThanhCong)
+- [Sử Thành Công](https://github.com/Brycenvn/SuThanhCong) ([demo](https://drive.google.com/file/d/1aLGDVjmf_3quMpf7_lR3zamI1gO-y6Ki/view))
 - [Nguyễn Thế Quang](https://github.com/Brycenvn/NguyenTheQuang)
 - [Lê Thanh Hùng](https://github.com/Brycenvn/LeThanhHung)
 - [Nguyễn Luôn Mong Đổ](https://github.com/Brycenvn/NguyenLuonMongDo)
