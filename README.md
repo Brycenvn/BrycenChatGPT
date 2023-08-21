@@ -6,15 +6,15 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen VN và Đại học
 
 ## Các Bước Thực Hiện
 
-### Bước 1: Học về Xử lý Ngôn ngữ Tự Nhiên trong AI
+### Bước 1: Xử lý Ngôn ngữ Tự Nhiên trong AI
 
 - Tài liệu: [Xử lý Ngôn ngữ Tự Nhiên trong AI](https://github.com/Brycenvn/BrycenChatGPT/tree/main/NLP_Documents)
 
-### Bước 2: Học về Langchain, Huggingface, Gradio và Streamlit
+### Bước 2: Langchain, Huggingface, Gradio và Streamlit
 
 - Tài liệu: [Langchain](https://github.com/Brycenvn/BrycenChatGPT/tree/main/Framework_Documents/Langchain_tutorials), [Huggingface](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o), [Gradio](https://www.gradio.app/guides), [Streamlit](https://docs.streamlit.io/library/api-reference)
 
-### Bước 3: Học về Flutter và Firebase
+### Bước 3: Flutter và Firebase
 
 - Tài liệu: [Học về Flutter và Firebase](https://github.com/Brycenvn/BrycenChatGPT/tree/main/Flutter_Documents)
 
