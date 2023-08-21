@@ -29,7 +29,7 @@ Xây dựng ứng dụng web chatbot với tính năng chat và tổng hợp n�
 
 #### Final Project: 
 
-Xây dựng ứng dụng điện thoại chatbot với tính năng chat và tổng hợp nội dụng, sử dụng Flutter, backend Firebase và các kiến thức đã làm trong mini project.
+Xây dựng ứng dụng điện thoại chatbot với tính năng chat và tổng hợp nội dung, sử dụng Flutter, backend Firebase và các kiến thức đã làm trong mini project.
 
 - [Sử Thành Công](https://github.com/Brycenvn/SuThanhCong) ([demo](https://drive.google.com/file/d/1aLGDVjmf_3quMpf7_lR3zamI1gO-y6Ki/view))
 - [Nguyễn Tiến  Nhật](https://github.com/Brycenvn/NguyenTienNhat) ([demo](https://drive.google.com/file/d/190rzLfDvYKmZPBgMnYjNbvHTO3X9TCI9/view))
