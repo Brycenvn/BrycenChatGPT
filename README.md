@@ -26,6 +26,7 @@ Xây dựng ứng dụng web chatbot với tính năng chat và tổng hợp n�
 
 - [Lê Thanh Hùng](https://huggingface.co/spaces/thenHung/Streamlit_sumarization)
 - [Nguyễn Thế Quang](https://huggingface.co/spaces/TheQuang/Chatbot)
+- [Sử Thành Công](https://suthanhcong-brycen-chatbot.streamlit.app/)
 
 #### Final Project: 
 
