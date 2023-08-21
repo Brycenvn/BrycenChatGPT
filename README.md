@@ -20,12 +20,12 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen VN và Đại học
 
 ### Bước 4: Xây dựng ứng dụng ChatGPT
 
-#### Mini Project:
+#### Mini Project: Xây dựng ứng dụng web chatbot với tính năng chat và tổng hợp nội dung, sử dụng thư viện LangChain, Huggingface, Gradio và Streamlit cùng với kiến thức về xử lý ngôn ngữ tự nhiên đã học.
 
 - [Lê Thanh Hùng](https://huggingface.co/spaces/thenHung/Streamlit_sumarization)
 - [Nguyễn Thế Quang](https://huggingface.co/spaces/TheQuang/Chatbot)
 
-#### Final Project:
+#### Final Project: Xây dựng ứng dụng điện thoại chatbot với tính năng chat và tổng hợp nội dụng, sử dụng Flutter, backend Firebase và các kiến thức đã làm trong mini project.
 
 - [Sử Thành Công](https://github.com/Brycenvn/SuThanhCong) ([demo](https://drive.google.com/file/d/1aLGDVjmf_3quMpf7_lR3zamI1gO-y6Ki/view))
 - [Nguyễn Tiến  Nhật](https://github.com/Brycenvn/NguyenTienNhat) ([demo](https://drive.google.com/file/d/190rzLfDvYKmZPBgMnYjNbvHTO3X9TCI9/view))
