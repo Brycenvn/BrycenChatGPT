@@ -26,7 +26,7 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen VN và Đại học
 - [Lê Bá Tuấn Phong](https://github.com/lebatuanphong5398/flutter_chatgpt) ([demo](https://drive.google.com/file/d/1Q51Lj_Gk2BtxMU3r3NYFBX415b9o6bea/view))
 - [Võ Đạt Văn](https://github.com/Brycenvn/VoDatVan) ([demo](https://drive.google.com/file/d/1Wrt7i0ywHnpB9LMCn0zROrfoerUAtu3d/view))
 - [Nguyễn Thế Quang](https://github.com/Brycenvn/NguyenTheQuang) ([demo](https://drive.google.com/file/d/1MsBiXfmgxE9RcvolD0mM3dpKIqk3O83Q/view)) ([apk](https://drive.google.com/file/d/119Z3Bon4IS6aIN1MwWdE2UhkuesUJVfI/view))
-- [Nguyễn Luôn Mong Đổ](https://github.com/Brycenvn/NguyenLuonMongDo) ([demo](https://drive.google.com/file/d/1PxHfjB5mbVURbPVRoih9R_O75NAdDFwe/view))
+- [Nguyễn Luôn Mong Đổ](https://github.com/Brycenvn/NguyenLuonMongDo) ([demo](https://drive.google.com/file/d/1PxHfjB5mbVURbPVRoih9R_O75NAdDFwe/view)) ([apk](https://drive.google.com/file/d/1df25nr2EzLCoyHBzyZTSE-PMKFkPO6MY/view))
 - [Nguyễn Ngọc Quang Huy](https://github.com/Brycenvn/NguyenNgocQuangHuy)
 
 ---
