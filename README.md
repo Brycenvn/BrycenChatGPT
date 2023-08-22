@@ -24,9 +24,9 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen VN và Đại học
 
 Xây dựng ứng dụng web chatbot với tính năng chat và tổng hợp nội dung, sử dụng thư viện LangChain, Huggingface, Gradio và Streamlit cùng với kiến thức về xử lý ngôn ngữ tự nhiên đã học.
 
+- [Sử Thành Công](https://suthanhcong-brycen-chatbot.streamlit.app/)
 - [Lê Thanh Hùng](https://langchainbot-thenhung.streamlit.app/)
 - [Nguyễn Thế Quang](https://huggingface.co/spaces/TheQuang/Chatbot)
-- [Sử Thành Công](https://suthanhcong-brycen-chatbot.streamlit.app/)
 - [Lê Bá Tuấn Phong](https://huggingface.co/spaces/lephong5398/test)
 - [Võ Đạt Văn](https://huggingface.co/spaces/VanVo/ChatGPT)
 - [Nguyễn Ngọc Quang Huy](https://huggingface.co/spaces/NNQuangHuy/Laboratory)
