@@ -16,7 +16,7 @@ BrycenChatGPT là dự án hợp tác giữa Công ty Brycen VN và Đại học
 
 ### Bước 3: Flutter và Firebase
 
-- Tài liệu: [Học về Flutter và Firebase](https://github.com/Brycenvn/BrycenChatGPT/tree/main/Flutter_Documents)
+- Tài liệu: [Flutter và Firebase](https://github.com/Brycenvn/BrycenChatGPT/tree/main/Flutter_Documents)
 
 ### Bước 4: Xây dựng ứng dụng ChatGPT
 
